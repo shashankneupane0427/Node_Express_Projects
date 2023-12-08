@@ -14,6 +14,6 @@ int main()
         	n = n/10;
     	}
 
-    	printf("\n\nSum of the digits of the entered number is  =  %d\n\n", sum);
+    	printf("\n\nSum of the digits of the entered number is  = %d\n\n", sum);
     	return 0;
 }
