@@ -3,7 +3,8 @@
 int main()
 {
     int a;
+    printf("Enter your age\n");
     scanf("%d",&a);
-    printf("%d is a number",a);
+    printf("Your age is %d\n",a);
 return 0;
 }
