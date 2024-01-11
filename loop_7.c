@@ -3,7 +3,7 @@
 int main()
 {
     int n,i,j,result;
-    printf("Input upto the table number starting from 1:\n");
+    printf("Input upto  the table number starting from 1:\n");
     scanf("%d",&n);
     for(i=1;i<=n;i++)
     {
