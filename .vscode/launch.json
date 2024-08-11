@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/surya/OneDrive/Documents/GitHub/Learning-C",
-      "program": "c:/Users/surya/OneDrive/Documents/GitHub/Learning-C/build/Debug/outDebug",
+      "cwd": "c:/Users/surya/OneDrive/Documents/GitHub/C_Practice",
+      "program": "c:/Users/surya/OneDrive/Documents/GitHub/C_Practice/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
